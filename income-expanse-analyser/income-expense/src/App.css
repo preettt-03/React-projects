@@ -1,0 +1,33 @@
+/* 
+
+.App{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+}
+
+.signup-form{
+  display: flex;
+  flex-direction: column;
+}
+
+input,
+.signup-button,
+.login-button{
+  margin: 5px 0px;
+}
+
+.signup-button,
+.login-button{
+  cursor: pointer;
+} */
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
